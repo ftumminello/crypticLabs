@@ -1,0 +1,1 @@
+File is freeware (105/2022) ~ FT
