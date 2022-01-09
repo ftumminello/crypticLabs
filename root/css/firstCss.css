@@ -13,8 +13,6 @@ h2 {
     position: absolute;
     top: 300px;
     left: 150px;
-    text-align: center;
-
 }
 
 h3 {
@@ -26,7 +24,7 @@ h3 {
 .text {
     font-family: "Azonix", serif;
     font-size: 48px;
-    color: white
+    color: white;
 }
 
 .logo {
@@ -47,5 +45,3 @@ h3 {
     z-index: 0;
     display: flex;
 }
-
-
