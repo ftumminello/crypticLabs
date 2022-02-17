@@ -44,19 +44,19 @@
 
 .text {
     font-family: 'Azonix', serif;
-    font-size: 24px;
+    font-size: 18px;
     color: white;
 }
 
 .paraheader {
     font-family: 'Azonix', serif;
-    font-size: 40px;
+    font-size: 24px;
     color: white;
 }
 
 .para {
   font-family: 'Azonix', serif;
-  font-size: 18px;
+  font-size: 12px;
   color: white;
   text-align: center;
   width: 62%;
